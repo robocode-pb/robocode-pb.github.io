@@ -7,5 +7,5 @@
   * JS (JQuery)
 
 ``` js
-console.log('Мяу');
+console.log('Мяу2');
 ```
